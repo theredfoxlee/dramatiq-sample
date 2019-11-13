@@ -1,0 +1,4 @@
+env/
+dramatiq_worker.pid
+dramatiq_worker.log
+__pycache__/
